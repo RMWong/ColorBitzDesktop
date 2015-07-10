@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.text.*?>
+<?import javafx.scene.layout.*?>
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="600.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <Text fill="#13dd93" layoutX="254.0" layoutY="129.0" strokeType="OUTSIDE" strokeWidth="0.0" text="COLOR BLITZ!" AnchorPane.leftAnchor="125.0" AnchorPane.rightAnchor="300.0" AnchorPane.topAnchor="150.0">
+         <font>
+            <Font size="58.0" />
+         </font>
+      </Text>
+      <Button layoutX="278.0" layoutY="330.0" mnemonicParsing="false" text="PLAY!" />
+   </children>
+</AnchorPane>
